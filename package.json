@@ -1,0 +1,10 @@
+{
+  "name": "vitest-gha",
+  "version": "1.0.0",
+  "scripts": {
+      "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.0"
+  }
+}
